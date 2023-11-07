@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{31D2DB6F-01A1-4A66-BB3F-9FEE8BBE16EC}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WebApplication__FirstAspNetCoreApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApplication_FirstAspNetCoreApp/Views/_ViewImports.cshtml">
+    <Files>
+      <File FileName="WebApplication_FirstAspNetCoreApp/Views/_ViewImports.cshtml" Line="5" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApplication_FirstAspNetCoreApp" expanded="True">
+            <Node name="WebApplication_FirstAspNetCoreApp" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="_ViewImports.cshtml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
